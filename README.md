@@ -26,4 +26,4 @@ Check out the full notebook and resources for a deep dive into this exciting pro
 
 P.S. Don't forget to check out the main README for links to all the models I used!
 
-I hope this post effectively summarizes your notebook's content for LinkedIn. Feel free to adjust the tone, add specific results or insights, and tailor it to your target audience. Good luck with your post!
+
